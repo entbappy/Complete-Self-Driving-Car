@@ -1,0 +1,12 @@
+If not connected,!!
+This worked for me, after about 25 hours of seeking to find the solution.
+
+
+
+pip install python-engineio==3.13.2
+
+pip install python-socketio==4.6.1
+
+
+
+from github's udacity/self-driving-car-sim/issues/131
